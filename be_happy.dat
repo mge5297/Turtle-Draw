@@ -1,0 +1,114 @@
+S 2
+E 8
+D
+E 4
+U
+S 1
+E 1
+D
+E 1
+U
+E 1
+S 1
+D
+S 0
+U
+E 1
+S 1
+D
+S 1
+U
+E 1
+S 1
+D
+S 4
+U
+W 1
+S 1
+D
+S 1
+U
+S 1
+W 1
+D
+S 0
+U
+W 1
+S 1
+D
+W 1
+U
+S 1
+W 1
+D
+W 4
+U
+W 1
+N 1
+D
+W 1
+U
+N 1
+W 1
+D
+N 0
+U
+N 1
+W 1
+D
+N 1
+U
+N 1
+W 1
+D
+N 4
+U
+N 1
+E 1
+D
+N 1
+U
+N 1
+E 1
+D
+N 0
+U
+N 1
+E 1
+D
+E 1
+U     end of circle
+W 1
+S 7
+D
+S 1
+U
+S 1
+E 1
+D
+E 1
+U
+S 1
+E 1
+D
+E 2
+U
+N 1
+E 1
+D
+E 1
+U
+N 1
+E 1
+D 
+N 1
+U              end smile
+N 2
+W 2
+D
+N 3
+U
+W 4
+D
+S 3
+U

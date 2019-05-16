@@ -1,0 +1,29 @@
+E 3
+S 1
+D    start the L
+S 11
+E 5
+U    
+N 5  
+E 4
+D    start the C
+E 3
+U
+E 1
+S 1
+D
+S 0
+U
+W 5
+D
+S 9
+U
+S 1
+E 1
+D
+E 3
+U
+E 1
+N 1
+D
+N 0

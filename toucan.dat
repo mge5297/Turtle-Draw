@@ -1,0 +1,144 @@
+E 10
+S 1
+D
+W 2 Top of head
+U
+W 1
+S 1
+D
+U
+W 1
+S 1
+D
+S 3
+U
+W 1
+S 1
+D
+U
+W 1
+S 1
+D
+S 7
+W 2
+U
+N 1
+W 1
+D
+U
+N 1
+W 1   Finishes toucan's back and left top of branch
+D
+U
+S 2
+D   Starts bottom of branch
+U
+S 1
+E 1
+D
+U
+S 1
+E 1
+D
+E 13
+U
+S 1
+E 1
+D
+U
+S 1
+E 1
+D   Finishes right bottom of branch
+U
+E 2
+N 1
+D   Starts right top of branch
+U
+N 1
+W 1
+D
+U
+N 1
+W 1
+D
+U
+N 1
+W 1
+D
+W 5  Finishes right top of branch
+U
+S 1  Starts bottom of toucan
+W 1
+D
+W 4
+U
+N 1
+W 1
+D  Finishes bottom of toucan
+U
+E 7
+N 1
+D   Starts toucan belly
+U
+N 1
+E 1
+D
+N 3
+U
+N 1
+W 1
+D
+N 6
+U
+N 1
+W 1
+D
+W 2
+U
+S 1
+W 1
+D
+S 4
+U
+S 1
+W 1
+D
+S 4
+U
+S 1
+E 1
+D
+E 2
+U
+N 1
+E 1
+D
+U
+N 1
+E 1
+D
+U
+N 3
+D  Starts beak
+E 6
+N 1
+U
+N 1
+W 1
+D
+U
+N 1
+W 1
+D
+W 3
+U
+S 1
+E 1
+D
+S 1
+E 1
+N 1
+U
+W 4
+N 2
+D  Draws the eye

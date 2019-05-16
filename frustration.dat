@@ -1,0 +1,207 @@
+d
+e 1
+u
+e 3
+d
+e 2
+u
+e 2
+d
+e 1
+u
+e 1
+s 1
+d
+s 2
+u
+w 1
+s 1
+d
+w 1
+n 3         end of D
+u
+w 4
+d
+w 0
+u
+w 2
+d
+w 0
+u
+w 2
+d
+s 3
+e 1
+u
+n 2
+d
+e 0
+u
+e 1
+s 1
+d
+e 0
+u
+s 1
+e 2
+d
+n 3
+s 1
+e 2
+n 1
+s 3  end of word
+u
+s 2
+e 5
+d
+e 0     start hammer
+u
+s 1
+w 1
+d
+e 0
+u
+e 2
+d
+e 0
+u
+s 1
+e 1
+d
+e 0
+u
+s 1
+e 1
+d
+e 0
+u
+s 1
+e 1
+d
+e 0
+u
+s 1
+w 1
+d
+w 0
+u
+s 1
+w 1
+d
+w 0
+u
+w 1
+n 1
+d
+w 0
+u
+w 1
+n 1
+d
+w 0
+u
+w 1
+n 1
+d
+w 0
+u
+w 1
+n 1
+d
+w 0         end of hammer head
+u
+s 2
+d
+n 0
+u
+s 1
+w 1
+d
+w 0
+u
+s 1
+w 1
+d
+w 0
+u
+s 1
+w 1
+d
+w 0
+u
+s 1
+w 1
+d
+w 0
+u
+s 1
+w 1
+d
+w 0
+u
+s 1
+w 1
+d
+w 0
+u
+s 1
+w 1
+d
+w 0
+u
+s 1
+w 1
+d
+w 0
+u
+s 1
+w 1
+d
+w 0
+u            end of handle
+e 7
+d
+e 0
+u
+e 6
+d
+e 0         legs done
+u
+e 4
+n 1
+d
+w 12         end of tail
+u
+n 1
+e 2
+d
+e 7
+u
+e 4
+d
+n 2
+s 1
+u
+w 2
+d
+w 0    the eye
+u
+n 2
+d
+e 1
+w 2
+u
+s 1
+w 1
+d
+e 0
+s 1
+n 1  end of head
+u
+s 1
+w 1
+d
+w 5
+u
+n 1
+e 1

@@ -1,0 +1,127 @@
+E 5
+D
+E 9
+U
+E 1
+S 1
+D
+E 0
+U
+E 1
+S 1
+D
+E 0
+U 
+E 1
+S 1
+D
+E 0
+U 
+E 1
+S 1
+D
+E 0
+U 
+E 1
+S 1
+D
+S 9
+U
+S 1
+W 1
+D
+W 0
+U
+S 1
+W 1
+D
+W 0 
+U
+S 1
+W 1
+D
+W 0 
+U
+S 1
+W 1
+D
+W 0 
+U
+S 1
+W 1
+D
+W 9
+U
+W 1
+N 1
+D
+N 0
+U
+W 1
+N 1
+D
+N 0
+U
+W 1
+N 1
+D
+N 0
+U
+W 1
+N 1
+D
+N 0
+U
+W 1
+N 1
+D
+N 9
+U
+E 1
+N 1
+D
+E 0
+U
+E 1
+N 1
+D
+E 0
+U
+E 1
+N 1
+D
+E 0
+U
+E 1
+N 1
+D
+E 0
+U
+S 5
+D
+W 2
+S 3
+E 2
+S 3
+W 2
+U
+E 5
+D
+N 6
+W 1
+E 2
+U
+E 2
+D
+E 3
+S 6
+W 3
+N 6
+U
+E 5
+D
+E 2
+S 3
+W 2
+S 3
+N 6
